@@ -3,8 +3,9 @@ author = []
 categories = []
 date = ""
 description = ""
-image = ""
+image = "/images/61ccf7c0-fda1-4717-b45d-b177e5ce897a.webp"
 tags = []
 title = "Le Paris"
 
 +++
+Une belle chambre.
