@@ -5,6 +5,21 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Home
+- type: document
+  path: config/params.toml
+  label: Home
+  match: "**/*"
+- type: heading
+  label: Chambres
+- type: directory
+  path: content/chambres/**/*
+  label: Chambres
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: heading
   label: Blog Post
 - type: directory
   path: content/blog
@@ -14,10 +29,10 @@ sections:
   templates:
   - post
 - type: heading
-  label: Others Pages
+  label: Autres pages
 - type: directory
   path: content/about
-  label: About
+  label: A propos
   create: none
   match: "*"
 - type: directory
@@ -27,7 +42,7 @@ sections:
   match: "*"
 - type: directory
   path: content
-  label: All Pages
+  label: Toutes les pages
   create: all
   match: "**/*"
 - type: heading
