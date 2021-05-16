@@ -25,4 +25,5 @@ fields:
   label: description
   description: Meta description
 pages:
+- content/chambres/**/*/chambre-romantique.md
 - content/chambres/**/*/chambres-romantique.md
