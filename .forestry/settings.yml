@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Home
 - type: document
-  path: config/params.toml
+  path: config/_default/params.toml
   label: Home
 - type: heading
   label: Chambres
