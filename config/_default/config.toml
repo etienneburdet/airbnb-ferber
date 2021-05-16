@@ -1,0 +1,26 @@
+baseURL = "/"
+disableLanguages = []
+disqusShortname = ""
+googleAnalytics = ""
+languageCode = "en-us"
+languageName = "En"
+paginate = "6"
+summaryLength = "10"
+theme = "github.com/etienneburdet/twenty-twenty-ferber"
+title = "Twenty Twenty Hugo for Forestry"
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.desktop]]
+URL = "contact"
+name = "Contact"
+weight = 1
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+[[menu.main]]
+URL = "/"
+name = "Home"
+weight = 1
+[outputs]
+home = ["HTML", "RSS", "JSON"]
