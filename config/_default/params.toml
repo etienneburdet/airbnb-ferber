@@ -4,7 +4,7 @@ description = "This is meta description"
 heading = "Une maison d'exception avec jardin à Paris"
 image = "images/ferber-front.webp"
 [blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "Le charme de Paris et le plaisir que donne la campagne.  Proche des moyens de transport ( Bus, Tram, Métro, Vélo, Motolyb etc.)"
 [call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
