@@ -1,5 +1,5 @@
 author = "Themefisher"
-description = "This is meta description"
+description = "Location de chambres à Paris, avec jardin."
 [banner]
 heading = "Une maison d'exception avec jardin à Paris"
 image = "images/ferber-front.webp"
@@ -12,10 +12,10 @@ content = "Contactez-nous pour connaitre les disponibilités."
 enable = true
 title = "Contactez-nous"
 [footer]
-address = "123 Main Street <br> New York, NY 10001"
-content = "This may be a good place to introduce yourself and your site or include some credits."
+address = "Paris 20ème, métro Pelleport et porte de Bagnollet."
+content = ""
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
+hours = ""
 title = "About This Site"
 [gallery]
 enable = false
