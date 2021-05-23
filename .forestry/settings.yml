@@ -5,10 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
-  label: Home
+  label: Accueil
 - type: document
   path: config/_default/params.toml
-  label: Home
+  label: Acceuil
 - type: heading
   label: Chambres
 - type: directory
