@@ -21,7 +21,7 @@ weight = "4"
 [[menu.main]]
 URL = "/chambres"
 name = "Chambres"
-weight = ""
+weight = "3"
 [[menu.main]]
 URL = "/blog"
 name = "Blog"
